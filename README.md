@@ -20,7 +20,7 @@ Clearer, brighter, more natural underwater photos revealing hidden details for r
 - **Resolution**: All images are uniformly resized to **256 × 256 pixels**.
 - **Test Composition**: The test set contains **only underwater images** to assess clarity, color balance and detail recovery; After inference, results are organized into three folders - Testing Dataset with Good Results, Challengingly Poor Results and Average Results based on visual quality.
 
-###  **Results**:
+### 📊 **Results**:
 - The Evaluation/Image Quality Metrics used used here are **PSNR (Peak Signal-to-Noise Ratio)** and S**SIM (Structural Similarity Index)**. Our model achieves an average **PSNR of 23.71dB** and **SSIM of 0.8816**.
 <br>
 <h4 align="center">The Output images below shows: (a) → Original Underwater Image; (b) → Enhanced Underwater Image</h4>
